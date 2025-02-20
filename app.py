@@ -8,7 +8,7 @@ EXTERNAL_API_BASE_URL = (
     "https://feed-api.tlxbw.xyz/v3/feed/list"
     "?screen_width=1080"
     "&app_version=60105582"
-    "&identity_id=a8dbcbbc353d31e2aeae7ded69a608b3"
+    "&identity_id=ac68615b719135fd9672656231a01d2f"
     "&module=discover"
     "&os_version=34"
     "&screen_height=2191"
